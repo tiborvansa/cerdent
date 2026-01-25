@@ -1,2 +1,0 @@
-# cerdent
-Cerdent dentist webpage

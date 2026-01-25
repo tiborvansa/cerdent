@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>http://localhost:4000/cerdent/</loc>
+    <lastmod>2026-01-25T18:07:15+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  <!-- Services overview page -->
+  <url>
+    <loc>http://localhost:4000/cerdent/services/</loc>
+    <lastmod>2026-01-25T18:07:15+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  <!-- Team overview page -->
+  <url>
+    <loc>http://localhost:4000/cerdent/team/</loc>
+    <lastmod>2026-01-25T18:07:15+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
